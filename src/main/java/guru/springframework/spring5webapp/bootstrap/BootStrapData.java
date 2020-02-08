@@ -6,7 +6,6 @@ import guru.springframework.spring5webapp.domain.Publisher;
 import guru.springframework.spring5webapp.repositories.AuthorRepository;
 import guru.springframework.spring5webapp.repositories.BookRepository;
 import guru.springframework.spring5webapp.repositories.PublisherRepository;
-import net.bytebuddy.implementation.bind.MethodDelegationBinder;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
